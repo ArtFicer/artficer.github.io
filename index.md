@@ -2,7 +2,7 @@
 
 Em um primeiro momento gostaria de ressaltar que se está aqui pelos meu códigos e projetos, preço desculpas, mas nesse momento a página está alocada para um projeto pessoal realocionado a live streamings, mas estou a disposição em meu email ou comentários em meu git sobre meus projetos públicos. 
 
-Agora, caso seja a **Redragon** ou alguma **empresa** vinda pelo meu [link na twitch](https://www.twitch.tv/artficer), sejam bem vindos, separei esse espaço especialmente para vocês s2!
+Agora, caso seja a **Redragon** ou alguma **Empresa** vinda pelo meu [link na twitch](https://www.twitch.tv/artficer), sejam bem vindos, separei esse espaço especialmente para vocês s2!
 Se for um viwer, esse espaço lhe será útil para saber mais sobre mim e meus materiais. Fico muito feliz por seu interesse <3. Para mais interassões só camar nas redes sociais.
 
 ### Um breve olá e um pouco de mim!
@@ -102,11 +102,4 @@ Contudo, lives após o dia **07/08/20** contam com uma melhor qualidade no áudi
  - [Primeira Vitoria no Beto Real do Faustinho](https://www.youtube.com/watch?v=-dvztlyqeYg)
  - [Her Stor com os amigos](https://www.youtube.com/watch?v=mhSh5YeeZ2A)
  
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArtFicer/ArtFicer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Obrigado pela atenção!! Abraços do Art.

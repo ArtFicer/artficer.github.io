@@ -5,12 +5,12 @@ Em um primeiro momento gostaria de ressaltar que se está aqui pelos meu código
 Agora, caso seja a **Redragon** ou alguma **Empresa** vinda pelo meu [link na twitch](https://www.twitch.tv/artficer), sejam bem vindos, separei esse espaço especialmente para vocês s2!
 Se for um viewer, esse espaço lhe será útil para saber mais sobre mim e meus materiais. Fico muito feliz por seu interesse <3. Para mais interações só chamar nas redes sociais.
 
-##### Contato
+#### Contato
 Para entrar em contato de parcerias "phventurarodrigues@gmail.com". Demais contatos, basta utilizar alguma de minhas redes sociais, com preferência a [instagram](https://www.instagram.com/pedro7ventura).
 
 ### Um breve olá e um pouco de mim!
 
-##### Oi, como vai amigo(a/x)?
+#### Oi, como vai amigo(a/x)?
 
 Sou um jovem mineiro de 25 anos chamado Pedro. Faço mestrado em ciências da computação, na área de multimídia, com pesquisa focada na interação humano máquina, e faço streaming como um hobby que levo muito a sério. 
 
@@ -105,7 +105,7 @@ Contudo, lives após o dia **07/08/20** contam com uma melhor qualidade no áudi
  - [Primeira Vitoria no Beto Real do Faustinho](https://www.youtube.com/watch?v=-dvztlyqeYg)
  - [Her Stor com os amigos](https://www.youtube.com/watch?v=mhSh5YeeZ2A)
  
-#### Obrigado pela atenção!! Abraços do Art.
+### Obrigado pela atenção!! Abraços do Art.
 
 
 

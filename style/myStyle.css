@@ -1,0 +1,36 @@
+.icons {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.partnersIcon{
+    max-width: 350px;
+    max-height: 100px;
+    
+    min-width: 200px;
+}
+
+.iconsWhite{
+    filter: invert(100%) sepia(100%) saturate(100%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
+.inconSmall{
+    max-width: 20px;
+}
+.socialBar{
+    
+    min-height: 40px;
+    min-width: 40px;
+}
+
+
+
+.colorStyleA {
+    background-color: #462e69 !important;
+}
+.colorStyleB {
+    background-color: #cc0066 !important;
+}
+.colorStyleC {
+    background-color: #3d6782 !important;
+}
